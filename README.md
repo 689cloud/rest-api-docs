@@ -17,66 +17,66 @@ For example Login API: https://www.689cloud.com/api/user/login
 
 <ul>
 <li> 
-  <a href="https://github.com/689cloud/rest-api/blob/master/Authentication.md#authentication-api" target="_blank">       Authentication
+  <a href="https://github.com/689cloud/rest-api-docs/blob/master/Authentication.md#authentication-api" target="_blank">       Authentication
   </a>
 </li>
 
 <li> 
-  <a href="https://github.com/689cloud/rest-api/blob/master/ProjectManagement.md#create-project" target="_blank">
+  <a href="https://github.com/689cloud/rest-api-docs/blob/master/ProjectManagement.md#create-project" target="_blank">
   Create Project
   </a>
 </li>
 
 <li> 
-  <a href="https://github.com/689cloud/rest-api/blob/master/ProjectManagement.md#get-project-list" target="_blank">
+  <a href="https://github.com/689cloud/rest-api-docs/blob/master/ProjectManagement.md#get-project-list" target="_blank">
   Get list of projects
   </a>
 </li>
 
 <li> 
-  <a href="https://github.com/689cloud/rest-api/blob/master/ProjectManagement.md#get-filesfolders-in-projectfolder" target="_blank">
+  <a href="https://github.com/689cloud/rest-api-docs/blob/master/ProjectManagement.md#get-filesfolders-in-projectfolder" target="_blank">
   Get files/folders in project
   </a>
 </li>
 
 <li> 
-  <a href="https://github.com/689cloud/rest-api/blob/master/ProjectManagement.md#upload-files" target="_blank">
+  <a href="https://github.com/689cloud/rest-api-docs/blob/master/ProjectManagement.md#upload-files" target="_blank">
   Upload file into project
   </a>
 </li>
 
 <li> 
-  <a href="https://github.com/689cloud/rest-api/blob/master/ProjectManagement.md#encode--register-license" target="_blank">
+  <a href="https://github.com/689cloud/rest-api-docs/blob/master/ProjectManagement.md#encode--register-license" target="_blank">
   Encode file & register lincese for all member in project
   </a>
 </li>
 
 <li> 
-  <a href="https://github.com/689cloud/rest-api/blob/master/ProjectManagement.md#create-folder" target="_blank">
+  <a href="https://github.com/689cloud/rest-api-docs/blob/master/ProjectManagement.md#create-folder" target="_blank">
   Create a folder in project
   </a>
 </li>
 
 <li> 
-  <a href="https://github.com/689cloud/rest-api/blob/master/Project_RegisterLicense.md#get-license-info" target="_blank">
+  <a href="https://github.com/689cloud/rest-api-docs/blob/master/Project_RegisterLicense.md#get-license-info" target="_blank">
   Get file License setting
   </a>
 </li>
 
 <li> 
-  <a href="https://github.com/689cloud/rest-api/blob/master/Project_RegisterLicense.md#license-update" target="_blank">
+  <a href="https://github.com/689cloud/rest-api-docs/blob/master/Project_RegisterLicense.md#license-update" target="_blank">
   Update file License setting
   </a>
 </li>
 
 <li> 
-  <a href="https://github.com/689cloud/rest-api/blob/master/ProjectManagement.md#download-file" target="_blank">
+  <a href="https://github.com/689cloud/rest-api-docs/blob/master/ProjectManagement.md#download-file" target="_blank">
   Download File
   </a>
 </li>
 
 <li> 
-  <a href="https://github.com/689cloud/rest-api/blob/master/Project_ShareFile.md#filefolder-sharing-apis" target="_blank">
+  <a href="https://github.com/689cloud/rest-api-docs/blob/master/Project_ShareFile.md#filefolder-sharing-apis" target="_blank">
   File & Folder sharing
   </a>
 </li>
@@ -88,25 +88,25 @@ For example Login API: https://www.689cloud.com/api/user/login
 <ul>
 
 <li> 
-  <a href="https://github.com/689cloud/rest-api/blob/master/ProjectManagement.md#create-folder" target="_blank">
+  <a href="https://github.com/689cloud/rest-api-docs/blob/master/ProjectManagement.md#create-folder" target="_blank">
   Project Management APIs
   </a>
 </li>
 
 <li> 
-  <a href="https://github.com/689cloud/rest-api/blob/master/UserManagement.md#user-management-api" target="_blank">
+  <a href="https://github.com/689cloud/rest-api-docs/blob/master/UserManagement.md#user-management-api" target="_blank">
   User Management APIs
   </a>
 </li>
 
 <li> 
-  <a href="https://github.com/689cloud/rest-api/blob/master/Project_Comment.md#create-comment" target="_blank">
+  <a href="https://github.com/689cloud/rest-api-docs/blob/master/Project_Comment.md#create-comment" target="_blank">
   Project Comment APIs
   </a>
 </li>
 
 <li> 
-  <a href="https://github.com/689cloud/rest-api/blob/master/History.md#history-api" target="_blank">
+  <a href="https://github.com/689cloud/rest-api-docs/blob/master/History.md#history-api" target="_blank">
   History APIs
   </a>
 </li>
@@ -165,4 +165,4 @@ For example Login API: https://www.689cloud.com/api/user/login
 
 
 For more infomation about 689Cloud please reference at https://www.689cloud.com <br/>
-If any question regarding to APIs usage and customization support, please get in touch with us at https://www.689cloud.com/contact-us
+If any question regarding to APIs usage and customization support, please get in touch with us at https://689cloud.com/contact-us
