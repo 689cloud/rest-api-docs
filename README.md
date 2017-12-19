@@ -1,8 +1,8 @@
-## 689Cloud Inc REST API DOCUMENT
+## 689Cloud REST API DOCUMENT
 
 
 Following is the design philosophy applied to 689Cloud API.
-* API protocol must be HTTP or HTTPS
+* API protocol must be HTTPS
 * API request parameters must be passed using query string for APIs that require GET
 * API request parameters must be “application/x-www-form-urlencoded” for APIs that require POST
 * API response body format must be JSON except when binary data returned
